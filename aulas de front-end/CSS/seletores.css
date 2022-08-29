@@ -1,0 +1,23 @@
+/* * {
+    background-color: black;
+} */
+
+h1 {
+    background-color: black;
+    color: red;
+}
+
+h1.laranja {
+    color: rgb(228, 171, 66);
+    background-color: black;
+}
+
+h1#roxo {
+    color: purple;
+    background-color: black;
+}
+
+h2 {
+    color: blue;
+    background-color: black;
+}

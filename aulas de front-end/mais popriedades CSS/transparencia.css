@@ -1,0 +1,15 @@
+img{
+    opacity: 0.5;
+}
+
+body{
+    text-align: center;
+}
+
+.card{
+    width: 500px;
+    border: 1px solid black;
+    padding: 10px;
+/* lateral / inferior / transparencia/ onde vai estara solidez */
+    box-shadow: 4px 4px 10px -2px black;
+}

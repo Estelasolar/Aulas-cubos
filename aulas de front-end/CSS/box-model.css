@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    /* shorthand */
+}
+div{
+    height: 100px;
+    width: 100px;
+}
+.vermelho {
+    background-color: red;
+    border:3px solid black ; 
+    /* expessura; estilo da borda;cor */
+    margin-bottom: 10px;
+    padding: 10px
+}
+.verde {
+    background-color: green;
+    border:3px solid black ; 
+
+    margin-bottom: 10px;
+}
+.azul {
+    background-color: blue;
+    border:3px solid black ; 
+    border-radius: 10px;
+padding: 5px;
+}
+img{
+    border-radius: 40px;
+}

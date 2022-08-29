@@ -1,0 +1,17 @@
+body {
+    /* background-color: black;*/
+    /* background-image: url('6Managing-original-original-original.webp'); */
+    /* background-image: url('https://i.picsum.photos/id/743/300/300.jpg?hmac=etOxwclMseIaDm0uF76VFeu27d7MXfDkNVwZQkQ_KVI'), url('https://i.picsum.photos/id/382/400/400.jpg?hmac=BJSVbce-q-cmCNyMdU7Q0S3drIGWvJFU35L9KYpWF4I'); */
+    /* background-size: 300px; */
+    /* background-position: right ; */
+    /* background-position: 100px 200px, 500px 50px;
+    background-repeat: no-repeat, no-repeat; */
+
+
+    /* shorthands */
+    background: black url('6Managing-original-original-original.webp') top left / 1000px no-repeat ;
+
+
+}
+
+

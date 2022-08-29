@@ -1,0 +1,18 @@
+h1{
+    color: red;
+}
+header h1{
+    color: purple;
+}
+
+header > h1{
+    color: green;
+}
+
+h1 , h2{
+    color: orangered;
+}/*  a virgula denota um "ou"*/ 
+
+h1.vermelha{
+    color: blue;
+}

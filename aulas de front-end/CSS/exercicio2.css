@@ -1,0 +1,28 @@
+h1 {
+    color: red;
+}
+
+h1.amarelo {
+    color: yellow;
+}
+
+h1.verde {
+    color: green;
+}
+
+h1.azul {
+    color: blue;
+}
+
+h1.laranja {
+    color: orangered;
+}
+
+h1.roxo {
+    color: purple;
+}
+
+h1.branco {
+    color: white;
+    background-color: black;
+}

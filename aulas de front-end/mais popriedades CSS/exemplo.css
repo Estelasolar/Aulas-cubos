@@ -1,0 +1,17 @@
+img{
+    border: 10px solid cyan;
+    border-radius: 50%;
+}
+
+body{
+    /* height:  100vh; */
+    min-height: 100vh;
+    background-color: rgb(47, 90, 231);
+}
+.card{
+    text-align: center;
+    box-shadow:  0px 0px 12px 0px rgb(0, 0,0.15);
+    padding: 25px;
+    width: 500px;
+    margin: 0 auto;
+}

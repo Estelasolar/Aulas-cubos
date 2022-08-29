@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    font-size: xx-large;
+    /* google fonts */
+
+    
+}
+p{
+    /* alinhamento */
+    text-align: justify;
+    
+    /* tamanho da fonte */
+    font-size: 24px;
+    
+    /* peso da fonte */
+    font-weight: 400;
+}
+
+a{
+    /* propriedades de decoração do texto */
+    text-decoration: none;
+    color: red;
+}
+
+h1, p{
+    /* fonte */
+    /* font-family: Helvetica; */
+
+    /* o que vem depois da virgula é a segunda opção de fonte caso nao ache a importada */
+    font-family: 'Oswald', sans-serif;
+
+
+}
+
+ul{
+    padding: 0%;
+    list-style-type:none;
+}
