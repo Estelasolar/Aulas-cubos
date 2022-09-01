@@ -1,0 +1,21 @@
+const usuario = [
+    {id: 11, nome: 'joao', idade: 23},
+    {id: 2, nome: 'maria', idade: 18},
+    {id: 4, nome: 'ana', idade: 30},
+    {id: 1, nome: 'rodrigo', idade: 17},
+    {id: 123, nome: 'rodrigo', idade: 17},
+
+]
+
+const maiorIdade =  usuario.reduce((acumulador,elementoAtaual,indice,array)=>{
+    let maior= acumulador;
+
+    if(elementoAtaual.idade > maior.idade){
+        maior = elementoAtaual;
+    }
+
+    return maior;
+
+})
+
+console.log(maiorIdade)

@@ -60,5 +60,13 @@ A função passada como argumento para o método reduce recebe 4 argumentos.
 
 ex:{
 
+   const array = [0,1,2,3,4];
+
+  const valorReduce array.reduce((acumulador, elementoAtual, indice, array)=>{
+    return acumulador + elementoAtual
+   })
+
+console.log(valorReduce)
+// 10
 }
 
